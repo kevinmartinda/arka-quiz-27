@@ -1,4 +1,4 @@
-const segitigaSikuSiku = (param) => {
+const segitigaSikuSikuMirrored = (param) => {
     let tempData = []
     let data = []
         for (let i = 0; i < param; i++) {
